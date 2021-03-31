@@ -1,8 +1,8 @@
-### Hi there, i'm Sagar Aryal 👋
+### Hi!👋 Nice to see you here. 🥰
 
-### Nice to see you here! 🥰
+**I’m currently studying to build up my tech stack**
 
-**_ I am a Full Stack Web Developer 👨‍🎓 _**
+**HTML, CSS, JavaScript, ReactJS, PHP, MariaDB**
 
 Here are some ideas to get you started:
 
