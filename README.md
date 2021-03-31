@@ -2,7 +2,7 @@
 
 ### Nice to see you here! 🥰
 
-**I am a Full Stack Web Developer 👨‍🎓 **
+**_ I am a Full Stack Web Developer 👨‍🎓 _**
 
 Here are some ideas to get you started:
 
