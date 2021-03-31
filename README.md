@@ -1,16 +1,5 @@
-### Hi!👋 Nice to see you here. 🥰
+### Hi there👋I’m currently studying to build up my tech stack 💻
 
-**I’m currently studying to build up my tech stack**
+**JavaScript, React, Redux, PHP and MariaDB**
 
-**HTML, CSS, JavaScript, ReactJS, PHP, MariaDB**
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying on Helsinki Business College
-- 🌱 I’m currently learning Full Stack web development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+### Nice to see you here 🥰
