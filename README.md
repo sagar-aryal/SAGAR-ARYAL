@@ -1,7 +1,7 @@
 ## Hi! <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="29px">
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagar-aryal)
 
-<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
+<img src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/>
 
 - 🔭 I’m currently studying at Helsinki Business College
 - 🌱 I’m currently learning full stack web development
