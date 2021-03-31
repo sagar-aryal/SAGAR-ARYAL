@@ -1,7 +1,7 @@
 ## Hi, i'm Sagar! <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="29px">
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagar-aryal)
 
-- 🔭 I’m currently studying on Helsinki Business College
+- 🔭 I’m currently studying at Helsinki Business College
 - 🌱 I’m currently learning full stack web development
 - 👯 I’m looking to collaborate on tech stack
 - 📫 How to reach me: sagar_yal92@outlook.com
