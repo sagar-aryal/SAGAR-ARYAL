@@ -1,6 +1,6 @@
-<h1 text-align ="center"> Hi, i'm Sagar!👋 </h1>
+<h1 align ="center"> Hi, i'm Sagar!👋 </h1>
 <hr>
-<h3 text-align ="center"> I’m currently studying to build up my tech stack. </h3>
+<h3 align ="center"> I’m currently working on building up my tech stack. </h3>
 
 <!--
 
