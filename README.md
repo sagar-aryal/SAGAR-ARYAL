@@ -1,4 +1,4 @@
-## Hi, i'm Sagar! Hello World!  <img src="https://github.com/sagar-aryal/sagar-aryal/blob/master/Images/Hi.gif" width="29px">
+## Hi, i'm Sagar! Hello World!  <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="29px">
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagar-aryal)
 
 - 🔭 I’m currently studying on Helsinki Business College
