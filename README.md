@@ -1,4 +1,4 @@
-## Hi! <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="29px">
+## Hi! I'm Sagar Aryal <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="29px">
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagar-aryal)
 
 <img src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
