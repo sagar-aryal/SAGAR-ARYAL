@@ -1,6 +1,8 @@
 ### Hi there, i'm Sagar Aryal 👋
 
-**sagar-aryal/sagar-aryal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Nice to see you here! 🥰
+
+**I am a Full Stack Web Developer 👨‍🎓 **
 
 Here are some ideas to get you started:
 
