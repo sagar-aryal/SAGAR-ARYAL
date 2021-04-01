@@ -4,7 +4,7 @@
 
 <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/giphy.webp" alt="side Gif" align="right" width="150" height="auto"/>
 
-- 🔭 I’m currently studying at Helsinki Business College
+- 🔭 I’m currently studying in Helsinki Business College
 - 🌱 I’m currently learning full stack web development
 - 👯 I’m looking to collaborate on tech stack 👨🏻‍💻
 
