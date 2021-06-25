@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying in Helsinki Business College
 - 🌱 I’m currently learning full stack web development
-- 🙌 I’m looking to collaborate on tech stack 👨🏻‍💻 
+- 👀 I’m looking to collaborate on tech stack 👨🏻‍💻 
 
 #### Languages and Tools
 
