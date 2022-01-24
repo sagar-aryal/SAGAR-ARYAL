@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a full stack salesforce developer
 - 🌱 I’m also doing full stack software development in opensource platform
-- 👀 I’m looking to collaborate on tech stack 👨🏻‍💻 
+- 👀 I’m always wake to collaborate on tech stack 👨🏻‍💻 
 
 #### Languages and Tools
 
