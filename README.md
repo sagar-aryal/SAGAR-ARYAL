@@ -1,4 +1,4 @@
-# <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="29px">Hi! I'm Sagar, a continuous learner.
+# <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="29px"> Hi! I'm Sagar, a continuous learner.
 ## There are no full stops but only commas for my career journey. I'm a person who can quickly adapt to changes.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagar-aryal)
