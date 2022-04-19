@@ -5,7 +5,7 @@
 
 <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/giphy.webp" alt="side Gif" align="right" width="150" height="auto"/>
 
-- 🔭 I’m currently working with Integrify as a software developer
+- 🔭 I’m currently working with Integrify as a software developer trainee
 - 🌱 I’m also doing full stack software development in opensource platform
 - 👀 I’m always up to collaborate on tech stack 👨🏻‍💻 
 
