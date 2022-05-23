@@ -1,15 +1,33 @@
-# <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="29px"> Hi! I'm Sagar, a continuous learner.
-## There are no full stops but only commas for my career journey. I'm a person who can quickly adapt to changes.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagar-aryal)
+# <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="29px"> Hi! I'm Sagar, a continuous learner.<br/> 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagar-aryal&left_color=blue&right_color=green)<br/>
 
 <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/giphy.webp" alt="side Gif" align="right" width="150" height="auto"/>
 
-- 🔭 I’m currently working with Integrify as a software developer trainee
-- 🌱 I’m also doing full stack software development stuffs during my free time
-- 👀 I’m always up to collaborate on tech stack 👨🏻‍💻 
+<p align="center", >
+        ════ ⋆★⋆ ════
+        <br>
+  <b> "Happily Coding👨‍💻!" </b>
+ </p>
+ 
+<br/>
 
-#### Languages and Tools
+- 🔭 I’m currently working on MERN stack with Integrify as a trainee
+- 🌱 I’m also exploring full stack software development stuffs during my free time
+- 💯 There are no full stops but only commas for my career journey.
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+- 🤝  I'm a person who can quickly adapt to changes.
+- 🚀 I’m always up to collaborate on tech stack and dev experiments
+- ✨ I love to attend Meetups for learning & Conferences for Networking
+
+### ❤️ Let's get connected
+[![Linkedin Badge](https://img.shields.io/badge/-Sagar_Aryal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar--aryal/)](https://www.linkedin.com/in/sagar--aryal/)
+[![Outlook Badge](https://img.shields.io/badge/-sagar_yal92@utlook.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagar_yal92@outlook.com)](mailto:sagar_yal92@outlook.com)
+
+
+
+### 🛠️ Technologies and Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -21,10 +39,12 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-#### Github Activities
+### 🏆 Github Activities
 
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-aryal&hide=TeX&layout=compact&theme=default&title_color=2d81e2&text_color=000000)
 
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-aryal&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=sagar-aryal&theme=flat&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sagar-aryal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true) -->
+
+
