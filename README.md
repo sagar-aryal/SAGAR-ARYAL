@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on MERN stack with Integrify as a trainee
 - 🌱 I’m also exploring full stack software development stuffs during my free time
-- 💯 There are no full stops but only commas for my career journey.
+- 💯 There are no full stops but only commas for my career journey
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
-- 🤝  I'm a person who can quickly adapt to changes.
+- 🤝  I'm a person who can quickly adapt to changes
 - 🚀 I’m always up to collaborate on tech stack and dev experiments
 - ✨ I love to attend Meetups for learning & Conferences for Networking
 
