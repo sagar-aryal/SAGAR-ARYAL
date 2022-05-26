@@ -14,12 +14,12 @@
 <br/>
 
 - 🔭 I’m currently working on MERN stack with Integrify as a trainee
-- 🌱 I’m also exploring full stack software development stuffs during my free time
+- 🌱 I’m also exploring different tech stacks during my free time
 - 💯 There are no full stops but only commas for my career journey
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 🤝  I'm a person who can quickly adapt to changes
-- 🚀 I’m always up to collaborate on tech stack and dev experiments
-- ✨ I love to attend Meetups for learning & Conferences for Networking
+- 🚀 I’m always up to collaborate on tech stacks and dev experiments
+- ✨ I love to attend meetups for learning & conferences for networking
 
 #### ❤️ Let's get connected
 [![Linkedin Badge](https://img.shields.io/badge/-Sagar_Aryal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar--aryal/)](https://www.linkedin.com/in/sagar--aryal/)
