@@ -1,5 +1,5 @@
 
-## <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="40px" height="40px"> Hello folks! I'm Sagar, a continuous learner 
+## <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="30px" height="30px"> Hello folks! I'm Sagar, a continuous learner 
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagar-aryal&left_color=blue&right_color=green)<br/>
