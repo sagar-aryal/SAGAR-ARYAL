@@ -14,7 +14,7 @@
  
 <br/>
 
-- 🔭 I’m currently working on MERN stack with Integrify as a trainee
+- 🔭 I’m currently working on MERN stack during my free time
 - 🌱 I’m also exploring different tech stacks during my free time
 - 💯 There are no full stops but only commas for my career journey
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
