@@ -24,7 +24,7 @@
 
 #### ❤️ Let's get connected
 [![Linkedin Badge](https://img.shields.io/badge/-Sagar_Aryal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar--aryal/)](https://www.linkedin.com/in/sagar--aryal/)
-[![Outlook Badge](https://img.shields.io/badge/-sagar_yal92@utlook.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagar_yal92@outlook.com)](mailto:sagar_yal92@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-sagar_yal92@utlook.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagarandaryal@outlook.com)](mailto:sagar_yal92@outlook.com)
 
 <br/>
 
