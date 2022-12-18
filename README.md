@@ -1,10 +1,10 @@
 
-## <img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/Hi.gif" width="30px" height="30px"> Hello folks! I'm Sagar, a continuous learner 
+## <img src="https://github.com/sagarandaryal/sagarandaryal/blob/main/Images/Hi.gif" width="30px" height="30px"> Hello folks! I'm Sagar, a continuous learner 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagar-aryal&left_color=blue&right_color=green)<br/>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagarandaryal&left_color=blue&right_color=green)<br/>
 
-<img src="https://github.com/sagar-aryal/sagar-aryal/blob/main/Images/giphy.webp" alt="side Gif" align="right" width="150" height="auto"/>
+<img src="https://github.com/sagarandaryal/sagarandaryal/blob/main/Images/giphy.webp" alt="side Gif" align="right" width="150" height="auto"/>
 
 <p align="center", >
         ════ ⋆★⋆ ════
@@ -23,7 +23,7 @@
 - ✨ I love to attend meetups for learning & conferences for networking
 
 #### ❤️ Let's get connected
-[![Linkedin Badge](https://img.shields.io/badge/-Sagar_Aryal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar--aryal/)](https://www.linkedin.com/in/sagar--aryal/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sagar_Aryal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarandaryal/)](https://www.linkedin.com/in/sagarandaryal/)
 [![Gmail Badge](https://img.shields.io/badge/-sagarandaryal@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagarandaryal@outlook.com)](mailto:sagarandaryal@gmail.com)
 
 <br/>
@@ -48,10 +48,10 @@
 
 <br/>
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-aryal&hide=TeX&layout=compact&theme=default&title_color=2d81e2&text_color=000000)
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarandaryal&hide=TeX&layout=compact&theme=default&title_color=2d81e2&text_color=000000)
 
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-aryal&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=sagar-aryal&theme=flat&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sagar-aryal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true) -->
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=sagarandaryal&theme=flat&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sagarandaryal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true) -->
 
 
