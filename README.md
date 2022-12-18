@@ -24,7 +24,7 @@
 
 #### ❤️ Let's get connected
 [![Linkedin Badge](https://img.shields.io/badge/-Sagar_Aryal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarandaryal/)](https://www.linkedin.com/in/sagarandaryal/)
-[![Gmail Badge](https://img.shields.io/badge/-sagarandaryal@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagarandaryal@outlook.com)](mailto:sagarandaryal@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sagarandaryal@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagarandaryal@gmail.com)](mailto:sagarandaryal@gmail.com)
 
 <br/>
 
@@ -50,7 +50,7 @@
 
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarandaryal&hide=TeX&layout=compact&theme=default&title_color=2d81e2&text_color=000000)
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-aryal&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarandaryal&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=sagarandaryal&theme=flat&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sagarandaryal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true) -->
 
